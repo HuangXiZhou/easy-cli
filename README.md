@@ -1,6 +1,6 @@
 # Easy-CLI
 
-使用 gulp 构建一个简易的本地 web 开发环境
+>A easy cli for the easy frontend page.
 
 ## Build Setup
 
